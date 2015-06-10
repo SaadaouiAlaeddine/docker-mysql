@@ -4,6 +4,8 @@ For more info, see https://github.com/tutumcloud/tutum-docker-mysql
 
 ## Usage
 
+Add the following to your docker-compose.yml file:
+
 ```YML
 mysql:
     image: yappabe/mysql
