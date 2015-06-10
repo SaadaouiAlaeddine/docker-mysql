@@ -16,3 +16,9 @@ mysql:
         MYSQL_PASS: your_mysql_password_here
         MYSQL_USER: your_mysql_user_here
 ```
+
+## ENV vars
+
+* ON_CREATE_DB: Database to be created
+* MYSQL_PASS: Mysql password
+* MYSQL_USER: Mysql user
