@@ -1,4 +1,4 @@
-FROM tutum/mysql
+FROM tutum/mysql:5.6
 
 MAINTAINER Joeri Verdeyen <joeriv@yappa.be>
 
