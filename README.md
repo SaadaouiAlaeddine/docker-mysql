@@ -1,3 +1,4 @@
+![Docker pulls](https://img.shields.io/docker/pulls/yappabe/mysql.svg?style=flat)
 # Yappa Mysql Docker Image
 
 For more info, see https://github.com/tutumcloud/tutum-docker-mysql
