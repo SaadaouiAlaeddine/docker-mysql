@@ -6,3 +6,5 @@ RUN echo Europe/Brussels > /etc/timezone && dpkg-reconfigure --frontend noninter
 
 ENV MYSQL_USER dev
 ENV MYSQL_PASS **password**
+
+COPY my.cnf /etc/mysql/conf.d/my.cnf
